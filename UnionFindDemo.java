@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class UnionFindDemo {
     public static void main(String[] args) {
         Kattio io = new Kattio(System.in, System.out);
